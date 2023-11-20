@@ -1,0 +1,263 @@
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgba(7, 36, 53, 0.788);
+}
+#obesitybanner {
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    padding-top: 50px;
+    box-sizing: border-box;
+}
+.heading{
+    padding-bottom: 50px;
+}
+.heading h5{
+    margin: 0%;
+}
+.heading h1{
+    display: inline;
+    width: 150px;
+    padding: 0px 20px 30px 0px;
+}
+.heading img {
+    display: inline-block;
+    width: 60px;
+    border-radius: 50%;
+}
+a{
+    text-decoration: underline;
+}
+
+.heading h1{
+    color: tomato;
+    font-size: 50px;
+    letter-spacing: 2px; 
+}
+.heading h5 {
+    color: white;
+    font-size: small;
+    font-style: bold;
+    letter-spacing: 1px;
+}
+.double-cont{
+    display: inline-flex;
+    justify-content: center;
+    
+}
+.first-cont {
+    display: inline-block;
+    display: flexbox;
+    background-color: orange;
+    color: white;
+    justify-content: center;
+    text-align: center;
+    width:250px;
+    height: 350px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.first-cont img{
+    width: 50px;
+    margin-top: 10px;
+}
+.second-cont {
+    display: inline-block;
+    background-color: rgb(0, 162, 255);
+    color: white;
+    justify-content: center;
+    text-align: center;
+    width: 250px;
+    height: 350px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.second-cont h1{
+    display: inline;
+}
+.second-cont img {
+    width: 30px;
+    margin-top: 25px;
+}
+.third-cont{
+    display: inline-block;
+    color: white;
+    background-color: rgb(228, 36, 36);
+    height: 200px;
+    justify-content: center;
+    text-align: left;
+    width: 500px;
+    padding: 15px 20px 20px 20px;
+    box-sizing: border-box;
+}
+.third-cont h4{
+    display: inline-block;
+    width: 50%;
+    text-align: left;
+}
+.third-cont .third-cont-imgs{
+    display: inline-block;
+    text-align:right;
+}
+.third-cont .third-cont-imgs img{
+    width: 40px;
+    padding: 0px 17px 0px 0px;
+}
+.third-cont p {
+    display: inline-block;
+    text-align: left;
+}
+
+.fourth-cont {
+    display: inline-block;
+    color: white;
+    background-color: rgb(0, 162, 255);
+    height: 260px;
+    justify-content: center;
+    text-align: left;
+    width: 500px;
+    padding: 5px 20px;
+    box-sizing: border-box;
+}
+
+.fourth-cont .fourth-sub1{
+    padding: 10px 10px;
+    justify-content: left;
+}
+.fourth-cont h4{
+    display: inline;
+    text-align: left;
+    height: 150px;
+    padding: 0px 10px;
+}
+.fourth-cont img {
+    width: 30px;
+    display: inline;
+    padding: 10px 0px 0px 0px;
+}
+.fourth-cont .fourth-sub2{
+    display: inline-block;
+    width: 50%;
+    text-align: left;
+    
+}
+.fourth-cont .fourth-sub3{
+    display: inline-block;
+    width: 40%;
+    text-align: left;
+    padding: 0px 0px 30px 30px;   
+}
+
+.fifth-cont {
+    display: inline-block;
+    color: white;
+    background-color: rgb(228, 36, 36);
+    height: 320px;
+    width: 250px;
+    justify-content: center;
+    text-align: center;
+    /* padding: 10px; */
+    box-sizing: border-box;
+}
+.fifth-cont img{
+    width: 80px;
+}
+.sixth-cont{
+    display: inline-block;
+    color: white;
+    background-color: orange;
+    height: 320px;
+    width: 250px;
+    justify-content: center;
+    text-align: center;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.sixth-cont img{
+    width: 80px;
+}
+.seventh-cont{
+    display: inline-block;
+    color: white;
+    background-color: rgb(0, 162, 255);
+    height: 180px;
+    width: 500px;
+    box-sizing: border-box;
+}
+.seventh-cont .seven-sub1{
+    width: 60%;
+    display: inline-block;
+    text-align: left;
+}
+
+.seventh-cont .seven-sub2{
+    display: inline-block;
+    text-align: right;
+}
+
+.eigth-cont {
+    display: inline-block;
+    color: white;
+    background-color: orange;
+    height: 160px;
+    width: 500px;
+    box-sizing: border-box;
+}
+.eigth-cont .eigth-sub1{
+    display: inline-block;
+    width: 60%;
+    text-align: left;
+}
+.eigth-cont .eigth-sub2{
+    display: inline-block;
+    text-align: right;
+}
+.eigth-cont .eigth-sub2 img{
+    width: 70px;
+    padding-right: 20px;
+}
+.ninth-cont{
+    display: inline-block;
+    color: white;
+    background-color: rgb(0, 162, 255);
+    height: 300px;
+    width: 250px;
+    justify-content: center;
+    text-align: center;
+    box-sizing: border-box;
+    padding: 10px;
+}
+
+.ninth-cont img{
+    width: 65px;
+    padding: 20px 0px 0px 0px;
+}
+.tenth-cont{
+    display: inline-block;
+    color: white;
+    background-color: rgb(228, 36, 36);
+    height: 300px;
+    width: 250px;
+    justify-content: center;
+    text-align: center;
+    padding: 10px;
+    box-sizing: border-box;
+}
+p{
+    font-size: 13px;
+     padding: 2px 5px;
+     text-align: center;
+} 
+
+@media screen and (max-width: 576px) {
+    
+    .title, .first-cont, .second-cont, .third-cont, .fourth-cont, .fivth-cont, .sixth-cont, .seventh-cont, .eigth-cont, .ninth-cont, .tenth-cont,.double-cont{
+        width: 100%;
+        height: 100%;
+        text-align: center;
+        flex-direction: column;
+        box-sizing: border-box;
+    }
+    
+}
